@@ -1,4 +1,10 @@
 datetime=1436a
 datetime=1415a
 datetime=1410a
+<<<<<<< Updated upstream
 <master branch>
+=======
+<2023 branch>
+stash{2}
+>>>>>>> Stashed changes
+stash{3}
