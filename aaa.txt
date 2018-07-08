@@ -13,3 +13,5 @@ a
 localchanges1200
 ---
 1test-rwx
+---
+0test-rwx
