@@ -11,3 +11,7 @@ master0036
 master0044
 a
 localchanges1200
+---
+1test-rwx
+---
+0test-rwx
